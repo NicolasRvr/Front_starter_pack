@@ -1,0 +1,11 @@
+{
+  "name": "Starter-pack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:public/css/style.css"
+  },
+  "description": "Front-starter-pack",
+  "author": "rivieren",
+  "license": "ISC"
+}
